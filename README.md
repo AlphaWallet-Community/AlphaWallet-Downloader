@@ -7,5 +7,5 @@ You should visit this URL on your mobile platform.
 https://d.alphawallet.com
 
 ## Host the assets for download
-AlphaWallet will release the latest apk on this domain too.
+AlphaWallet will release the latest apk on this domain too.         
 https://d.alphawallet.com/apk/
