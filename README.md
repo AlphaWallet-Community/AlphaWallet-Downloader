@@ -5,3 +5,7 @@ AlphaWallet Auto downloaer, please open this website on mobile phone, it will au
 ## For mobile client
 You should visit this URL on your mobile platform.      
 https://d.alphawallet.com
+
+## Host the assets for download
+AlphaWallet will release the latest apk on this domain too.
+https://d.alphawallet.com/apk/
